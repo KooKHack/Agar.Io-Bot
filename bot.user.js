@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name        RedBot
-// @namespace   RedBot
+// @name        RedBot[kook-team]
+// @namespace   RedBot[kook-team]
 // @include     http://agar.io/
 // @version     1.21
 // @grant       none
